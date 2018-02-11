@@ -62,10 +62,10 @@
   "dependencies": {
     "async": "*",
     "bitcore": "https://github.com/NeblioTeam/bitcore.git#neblcore",
-    "bitcore-message": "https://github.com/NeblioTeam/bitcore-message#neblcore-message",
+    "bitcore-message": "https://github.com/NeblioTeam/bitcore-message.git#neblcore-message",
     "body-parser": "^1.13.3",
     "lodash": "^2.4.1",
-    "request": "^2.64.0"
+    "request": "=2.64.0"
   },
   "devDependencies": {
     "chai": "*",
